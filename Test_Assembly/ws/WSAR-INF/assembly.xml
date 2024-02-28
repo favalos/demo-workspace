@@ -18,7 +18,7 @@
             <cc:steps>
                 <cc:log id="Log">
                     <cc:log-message>
-                        <cc:text>Simple log message.</cc:text>
+                        <cc:text>Simple log message 2.</cc:text>
                     </cc:log-message>
                 </cc:log>
             </cc:steps>
